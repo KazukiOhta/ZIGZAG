@@ -164,11 +164,6 @@ int main() {
     ANSWER = (ans_b + 10000 - ans_a)%10000;
     
     printf("\n\n計算結果 = %d\n\n",ANSWER);
-
-    
-    
-    
-    
     
     return 0;
 }
